@@ -1,2 +1,2 @@
 # VoiceATM
-demo: https://devipriyavelmurugan.github.io/Voice-ATM
+demo: https://devipriyavelmurugan.github.io/Voice_ATM
